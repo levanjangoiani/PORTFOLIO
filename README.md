@@ -17,7 +17,7 @@ This is my personal portfolio built using HTML, CSS, and JavaScript. It showcase
 - [Optional: any libraries you used, e.g., GSAP, AOS, Swiper.js]
 
 🌍 Live Demo
-```bash
+
 (https://fantastic-donut-ba05f7.netlify.app/)
 
 ## Installation
